@@ -51,7 +51,5 @@ def upload_chosen_photos():
 
 
 if __name__ == '__main__':
-    'georgiysheynberg'
-    13455628
     user = VKAPI()
     upload_chosen_photos()
